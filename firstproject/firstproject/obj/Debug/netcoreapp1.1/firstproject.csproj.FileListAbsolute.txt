@@ -1,0 +1,10 @@
+C:\Users\SONY\source\repos\firstproject\firstproject\bin\Debug\netcoreapp1.1\firstproject.deps.json
+C:\Users\SONY\source\repos\firstproject\firstproject\bin\Debug\netcoreapp1.1\firstproject.runtimeconfig.json
+C:\Users\SONY\source\repos\firstproject\firstproject\bin\Debug\netcoreapp1.1\firstproject.runtimeconfig.dev.json
+C:\Users\SONY\source\repos\firstproject\firstproject\obj\Debug\netcoreapp1.1\firstproject.csprojResolveAssemblyReference.cache
+C:\Users\SONY\source\repos\firstproject\firstproject\obj\Debug\netcoreapp1.1\firstproject.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\firstproject\firstproject\obj\Debug\netcoreapp1.1\firstproject.AssemblyInfo.cs
+C:\Users\SONY\source\repos\firstproject\firstproject\bin\Debug\netcoreapp1.1\firstproject.dll
+C:\Users\SONY\source\repos\firstproject\firstproject\bin\Debug\netcoreapp1.1\firstproject.pdb
+C:\Users\SONY\source\repos\firstproject\firstproject\obj\Debug\netcoreapp1.1\firstproject.dll
+C:\Users\SONY\source\repos\firstproject\firstproject\obj\Debug\netcoreapp1.1\firstproject.pdb
